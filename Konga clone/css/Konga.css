@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.navbar{
+    background:deeppink;
+}
+.span{
+    background:white;
+    color: black;
+}
+body{
+    background:whitesmoke;
+}
+.row9{
+    display: inline-flex;
+}
+.cardayj{
+    display: inline-flex;
+}
+.row1{
+    display: inline-flex;
+}
+.card1{
+    background: center;
+}
+.col-md-4konga{
+    display: inline-flex;
+}
+.card2{
+    display: inline-flex;
+}
+.contain5{
+    display: inline-flex;
+}
+.carousel-item{
+    height: 20rem;
+}
+.carousel-item img{
+    height: 13rem;
+}
